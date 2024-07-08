@@ -62,15 +62,15 @@
                     <!-- Additional plugin configuration -->
                     <cloudHubDeployment>
                         <uri>https://anypoint.mulesoft.com</uri>
-                        <muleVersion>${app.runtime}</muleVersion>
+                        <muleVersion>4.7.1</muleVersion>
                         <!-- Ensure these properties are defined elsewhere -->
-                        <username>${anypoint.username}</username>
-                        <password>${anypoint.password}</password>
-                        <environment>${env}</environment>
-                        <applicationName>${appname}</applicationName>
-                        <businessGroup>${business}</businessGroup>
-                        <workerType>${vCore}</workerType>
-                        <workers>${workers}</workers>
+                        <username>kalvintechsolmahesh</username>
+                        <password>Mahesh9951@#$ </password>
+                        <environment>sanbox</environment>
+                        <applicationName>Cidpillines</applicationName>
+                        <businessGroup>kalvintech </businessGroup>
+                        <workerType>0.1vCores</workerType>
+                        <workers>1</workers>
                         <objectStoreV2>true</objectStoreV2>
                     </cloudHubDeployment>
                 </configuration>
